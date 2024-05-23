@@ -1,0 +1,16 @@
+.homebg{
+    background-color:#15172b ;
+    height: 100vh;
+    background-size: 100%;
+}
+.homesummary{
+    margin-top: 8%;
+    margin-left: 20%;
+    width: 60%;
+    word-spacing: 5px;
+}
+.submit{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
